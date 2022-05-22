@@ -67,3 +67,6 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+#my gems
+gem "simple_form", github: "heartcombo/simple_form"
